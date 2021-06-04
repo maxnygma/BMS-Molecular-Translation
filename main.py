@@ -8,4 +8,3 @@ if not config.inference.inference:
     run(config)
 else:
     inference(config) # Not implemented, inference was computed on Kaggle 
-
