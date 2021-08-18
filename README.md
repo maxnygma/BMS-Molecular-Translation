@@ -6,10 +6,9 @@ This is a pipeline for [Bristol-Myers Squibb – Molecular Translation](https://
 Significant part of code was originated from 
 [Y.Nakama's notebook](https://www.kaggle.com/yasufuminakama/inchi-resnet-lstm-with-attention-starter) 
 
-This competition was about image-to-text translation of images with molecular skeletal strucutures to InChI chemical formula identifiers.
+This competition was about image-to-text translation of images with molecular skeletal strucutures to InChI chemical formula identifiers. Example of a text identifier:
 
 ![](https://www.kaggleusercontent.com/kf/56177275/eyJhbGciOiJkaXIiLCJlbmMiOiJBMTI4Q0JDLUhTMjU2In0..KdFGELi4smozCcC_cPCdgg.yiauS_UdZbed07asLdsvH8I3ACfE-6mDp_GyNrG-YF_CIWXu_XZDRJEBYtph-7k84wbkPdpIOB0WqUx5sFo38nR3U-SU3ZiYJqxfg3WA-vkqZzwHbqK4-yAFUAErVRFkIMgqo4cSAFoQ6uUQld-HkLR2ErgL7tLDE8KqwaFtpocpNgpspeqjSUoP0P5qqABGJOtDgj2mt-SiwQ9IHm29kQBaYHTTS3yGsf_6kb97XfhLYiyYjg2C2ITuVA75hzrVG_d7TWAlM2oe2v1U8a0OiioRk90IRQcdNwOreRnNnNc42Q4KmZe1budXxoboxZOOAkr8JlG4fAVstbm5YDkYOOJNFh9hRvp_ytOPnS9ljCc-yMeX5J82enQTRTWRvg1ahmMZSuAle51_WBn9eRdvysq7FIUDq66nbwrbUGzydVbBWNtzjWELMwscPUF349VdVpc7r16GtAnwVHl2-4EbqSkJI1Hit-_LdfWVquCG2xAAK-8xdcWaCnpDEymRwcvyndyAn22Unz-ZPjT-6VVvuqvRpSh-7rciOYFfiW8nxGj7ED3fhDrg1dkr097yabWPjS2urRxQinauotAX9D_GvglkV5NKlbyjeHlJvJUfI4PBxTlwdYccGAZ9FB6SG_cXs8CBu0T8eOfVNA3JElRZvDDSQymr0Acg6ZIoadj6E8RDG2G_9tIPZDwGJ0WmS2FQ._bwqbST0RSYL68hqfLSCsQ/__results___files/__results___12_1.png)
-<br><br>
 **InChI=1S/C16H13Cl2NO3/c1-10-2-4-11(5-3-10)16(21)22-9-15(20)19-14-8-12(17)6-7-13(14)18/h2-8H,9H2,1H3,(H,19,20)**
 
 ## **Solution**
