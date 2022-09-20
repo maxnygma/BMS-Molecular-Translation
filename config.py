@@ -23,7 +23,7 @@ config = {
         'path_to_weights': '/home/xzcodes/Downloads/4_epoch.pt'
     },
     'training': {
-        'num_epochs': 15,
+        'num_epochs': 20,
         # 'encoder_lr': 0.000001, # target learning rate = base lr * warmup_multiplier if warmup_multiplier > 1.0 (0.000001)
         # 'decoder_lr': 0.000004,
         'encoder_lr': 0.0001, # target learning rate = base lr * warmup_multiplier if warmup_multiplier > 1.0 (0.000001)
@@ -33,9 +33,9 @@ config = {
         'gradient_accumulation_steps': 4,
         'gradient_clipping': True,
         'gradient_clipping_value': 5,
-        'early_stopping_epochs': 10,
+        'early_stopping_epochs': 15,
 
-        'warmup_scheduler': False,
+        'warmup_scheduler': True,
         'warmup_epochs': 3,
         'warmup_multiplier': 100, # lr needs to be divided by warmup_multiplier if warmup_multiplier > 1.0
 
