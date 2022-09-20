@@ -36,4 +36,4 @@ in pseudo labels improved the score.
 Finally, we blended ~20 predictions from 2 models (mostly from different epochs) using RDKit validation to choose only 
 formulas which have possible InChI structure.
 
-#### **Final private LB score 1.79**
+#### **Final private LB score: 1.79**
